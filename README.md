@@ -1,4 +1,4 @@
 javascript-challenge
 ====================
 
-Assets and files for the Essential JavaScript Challenge
+A form complete with validation written in Javascript.
